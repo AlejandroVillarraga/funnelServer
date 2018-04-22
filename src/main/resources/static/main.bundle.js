@@ -236,7 +236,7 @@ AppModule = __decorate([
             {
                 provide: __WEBPACK_IMPORTED_MODULE_12__common_config_initial_config__["a" /* INITIAL_CONFIG */],
                 useValue: {
-                    apiURL: 'http://18.236.98.18:8080'
+                    apiURL: 'http://34.212.44.199:8080'
                 }
             },
             __WEBPACK_IMPORTED_MODULE_11__common_config_app_configuration_service__["a" /* AppConfiguration */],
